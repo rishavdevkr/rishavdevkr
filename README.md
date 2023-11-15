@@ -3,6 +3,9 @@ rishavdevkr is a ✨ special ✨ repository because its `README.md` (this file) 
 You can click the Preview link to take a look at your changes.
 - 📫 How to reach me t.me/rishavdevkr ...
 --->
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Hacker%3BCTF%20player%3BAlways%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
+</p>
 
 <h1> <a href="https://about.me/rishavdevkr.com/">This is Rishav Dev Kumar</a></h1>
  
