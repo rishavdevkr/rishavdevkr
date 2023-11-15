@@ -4,7 +4,7 @@ You can click the Preview link to take a look at your changes.
 - 📫 How to reach me t.me/rishavdevkr ...
 --->
 
-<h1><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"> <a href="https://about.me/rishavdevkr.com/">Rishav Dev Kumar</a></h1>
+<h1> <a href="https://about.me/rishavdevkr.com/">Rishav Dev Kumar</a></h1>
  
  <a href="https://jonyjas.com/" target="_blank">
   <img align="left" alt="Jony's Website" width="40px" src="https://user-images.githubusercontent.com/74784363/143541601-3ab9695a-100a-4ad7-8d21-43cd1e4af7c7.png" />
