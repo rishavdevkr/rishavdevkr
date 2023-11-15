@@ -4,22 +4,16 @@ You can click the Preview link to take a look at your changes.
 - 📫 How to reach me t.me/rishavdevkr ...
 --->
 
-<h1> <a href="https://about.me/rishavdevkr.com/">Rishav Dev Kumar</a></h1>
+<h1> <a href="https://about.me/rishavdevkr.com/">This is Rishav Dev Kumar</a></h1>
  
- <a href="https://jonyjas.com/" target="_blank">
-  <img align="left" alt="Jony's Website" width="40px" src="https://user-images.githubusercontent.com/74784363/143541601-3ab9695a-100a-4ad7-8d21-43cd1e4af7c7.png" />
-</a>
- <a href="https://www.instagram.com/_jony.j/" target="_blank">
+ <a href="https://www.instagram.com/rishavdevkrr/" target="_blank">
   <img align="left" alt="Jony's Instagram" width="40px" src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-instagram-social-media-justicon-lineal-color-justicon.png" />
 </a>
-<a href="https://www.linkedin.com/in/jony-jas/">
+<a href="https://www.linkedin.com/in/rishavdevkr/">
   <img align="left" alt="Jony's Linkedin" width="40px" src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-linkedin-social-media-justicon-lineal-color-justicon.png" />
 </a>
-<a href="https://twitter.com/_jonyj">
+<a href="https://twitter.com/rishavdevkr">
   <img align="left" alt="Jony's Twitter" width="40px" src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-twitter-social-media-justicon-lineal-color-justicon.png" />
-</a>
-<a href="https://behance.net/jonyjas">
-  <img align="left" alt="Jony's Behance" width="40px" src="https://user-images.githubusercontent.com/74784363/132524230-02a2f8e4-dccb-444f-9a96-1e8ed52b08c6.png"/>
 </a>
 <a href="https://open.spotify.com/user/31cl7trdf4lx6z452vxh3xcyyoga">
   <img align="left" alt="Jony's Spotify" width="40px" src="https://user-images.githubusercontent.com/74784363/132524968-f8d6f1d7-ff49-4ecb-bc15-1c681d63bcce.png" />
@@ -46,38 +40,6 @@ You can click the Preview link to take a look at your changes.
 ![Code Time](http://img.shields.io/badge/Code%20Time-866%20hrs%2048%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.8%20million%20lines%20of%20code-blue)
-
-**🐱 My GitHub Data** 
-
-> 📦 460.6 kB Used in GitHub's Storage 
- > 
-> 🏆 163 Contributions in the Year 2023
- > 
-> 🚫 Not Opted to Hire
- > 
-
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                136 commits         ██████░░░░░░░░░░░░░░░░░░░   22.15 % 
-🌆 Daytime                323 commits         █████████████░░░░░░░░░░░░   52.61 % 
-🌃 Evening                137 commits         ██████░░░░░░░░░░░░░░░░░░░   22.31 % 
-🌙 Night                  18 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.93 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   77 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.54 % 
-Tuesday                  66 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.75 % 
-Wednesday                62 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.10 % 
-Thursday                 117 commits         █████░░░░░░░░░░░░░░░░░░░░   19.06 % 
-Friday                   71 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.56 % 
-Saturday                 107 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.43 % 
-Sunday                   114 commits         █████░░░░░░░░░░░░░░░░░░░░   18.57 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
 
 ```text
 🕑︎ Time Zone: Asia/Kolkata
