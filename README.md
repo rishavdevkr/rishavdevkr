@@ -1,15 +1,10 @@
-- 👋 Hi, I’m @rishavdevkr
-- 👀 I’m interested in Software developing...
-- 🌱 I’m currently doing Electrical Engineering ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me t.me/rishavdevkr ...
-
 <!---
 rishavdevkr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
+- 📫 How to reach me t.me/rishavdevkr ...
 --->
 
-<h1><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"> Hi, I’m <a href="https://about.me/rishavdevkr.com/">Rishav Dev Kumar</a></h1>
+<h1><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"> Hi, I am <a href="https://about.me/rishavdevkr.com/">Rishav Dev Kumar</a></h1>
  
  <a href="https://jonyjas.com/" target="_blank">
   <img align="left" alt="Jony's Website" width="40px" src="https://user-images.githubusercontent.com/74784363/143541601-3ab9695a-100a-4ad7-8d21-43cd1e4af7c7.png" />
@@ -34,10 +29,7 @@ You can click the Preview link to take a look at your changes.
 </br>
 
 - 👀About me: 
->>🚀 Passionate "Web & App Developer" and enthusiastic engineer 🛠️, constantly seeking opportunities to learn and grow, no matter the scale. Dedicated to building a better future through technology while enhancing personal development. 📈
-
->>🎓 Currently a final-year undergrad, I possess a burning passion for software development, web, mobile development, and blockchain. I firmly believe in the power of curiosity, and I revel in exploring novel tech stacks to bring forth creative and innovative projects 💡
-- 🔨 Languages and Tools:
+>>🚀 Passionate "Web & App Developer" and enthusiastic  electrical engineer 🛠️, constantly seeking opportunities to learn and grow, no matter the scale. Dedicated to building a better future through technology while enhancing personal development. 📈
 
 <code><img height="35" src="https://github.com/Jony-Jas/Jony-Jas/assets/74784363/93e7f0c2-91e8-4ad4-85ba-6a908f241426"></code>&emsp;
 <code><img height="35" src="https://github.com/Jony-Jas/Jony-Jas/assets/74784363/12f9d83c-7568-4519-9a33-aaa17f8ddcbf"></code>&emsp;
@@ -63,10 +55,7 @@ You can click the Preview link to take a look at your changes.
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 84 Public Repositories 
- > 
-> 🔑 6 Private Repositories 
- > 
+
 **I'm an Early 🐤** 
 
 ```text
