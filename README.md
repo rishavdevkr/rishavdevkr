@@ -8,6 +8,10 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 <h1> <a href="https://about.me/rishavdevkr.com/">This is Rishav Dev Kumar</a></h1>
+
+## Profile views counter
+
+![Visitor Count](https://profile-counter.glitch.me/{rishavdevkr}/count.svg)
  
  <a href="https://www.instagram.com/rishavdevkrr/" target="_blank">
   <img align="left" alt="Jony's Instagram" width="40px" src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-instagram-social-media-justicon-lineal-color-justicon.png" />
