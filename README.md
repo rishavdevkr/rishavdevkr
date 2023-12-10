@@ -7,8 +7,6 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Rishav%20Dev%20Kumar%20%3BCTF%20player%3BAlways%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p>
 
-<h1> <a href="https://about.me/rishavdevkr.com/">This is Rishav Dev Kumar</a></h1>
-
 <p align="center"><img src="https://user-images.githubusercontent.com/49580304/110318584-81067880-7fc2-11eb-8391-152d308e7f2b.gif" alt="Bt">
 
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F70B10&size=27&lines=This+is+Rishavdevkr;+𝙸t'𝚜+Not+𝙹ust+a+𝙽ame+𝙱ro;𝙸t'𝚜+a+𝙱rand;)](https://git.io/typing-svg)
