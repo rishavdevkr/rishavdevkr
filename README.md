@@ -9,6 +9,11 @@ You can click the Preview link to take a look at your changes.
 
 <h1> <a href="https://about.me/rishavdevkr.com/">This is Rishav Dev Kumar</a></h1>
 
+<p align="center"><img src="https://user-images.githubusercontent.com/49580304/110318584-81067880-7fc2-11eb-8391-152d308e7f2b.gif" alt="Bt">
+
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F70B10&size=27&lines=This+is+Rishavdevkr;+𝙸t'𝚜+Not+𝙹ust+a+𝙽ame+𝙱ro;𝙸t'𝚜+a+𝙱rand;)](https://git.io/typing-svg)
+
+
 ## Profile views counter
 
 ![Visitor Count](https://profile-counter.glitch.me/{rishavdevkr}/count.svg)
@@ -31,15 +36,6 @@ You can click the Preview link to take a look at your changes.
 
 - 👀About me: 
 >>🚀A Passionate "Web Developer" and enthusiastic  electrical engineer 🛠️, constantly seeking opportunities to learn and grow, no matter the scale. Dedicated to building a better future through technology while enhancing personal development. 📈
-
-<code><img height="35" src="https://github.com/Jony-Jas/Jony-Jas/assets/74784363/93e7f0c2-91e8-4ad4-85ba-6a908f241426"></code>&emsp;
-<code><img height="35" src="https://github.com/Jony-Jas/Jony-Jas/assets/74784363/12f9d83c-7568-4519-9a33-aaa17f8ddcbf"></code>&emsp;
-<code><img height="35" src="https://github.com/Jony-Jas/Jony-Jas/assets/74784363/35c65754-e3de-48c6-ba57-506543d72f09"></code>&emsp;
-<code><img height="35" src="https://github.com/Jony-Jas/Jony-Jas/assets/74784363/ab954eac-c3ae-433c-b686-303b7c285542"></code>&emsp;
-<code><img height="35" src="https://github.com/Jony-Jas/Jony-Jas/assets/74784363/3188704e-9350-4e24-80fb-b37fc64abf9a"></code>&emsp;
-<code><img height="35" src="https://github.com/Jony-Jas/Jony-Jas/assets/74784363/5937843a-cf31-40bf-b002-b5b2fc9ca757"></code>&emsp;
-<code><img height="40" src="https://user-images.githubusercontent.com/74784363/122376096-77a58880-cf81-11eb-908b-d0f76b4bee8f.png"></code>&emsp;
-<code><img height="35" src="https://github.com/Jony-Jas/Jony-Jas/assets/74784363/be9b29a5-3fd0-4867-a7f5-3c109c93ea1d"></code>&emsp;
 
 <br>
 
