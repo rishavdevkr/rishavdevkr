@@ -34,9 +34,9 @@
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-866%20hrs%2048%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-66%20hrs%248%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.8%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.8%20thousand%20lines%20of%20code-blue)
 
 ```text
 🕑︎ Time Zone: Asia/Kolkata
@@ -54,8 +54,8 @@ No Activity Tracked This Week
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               42 repos            ████████████░░░░░░░░░░░░░   50.00 % 
-Python                   14 repos            ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+JavaScript               12 repos            ███████░░░░░░░░░░░░░░░░░░   50.00 % 
+Python                   8 repos             ███░░░░░░░░░░░░░░░░░░░░░░   16.67 % 
 Java                     6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
 TypeScript               5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.95 % 
 EJS                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
